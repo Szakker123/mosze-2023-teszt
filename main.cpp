@@ -10,9 +10,9 @@ int main()
     {
         b[i] = i * 2;
     }
-    for (int i = 0; i; i++)
+    for (int i = 0; i < N_ELEMENTS; i++)
     {
-        std::cout << "Ertek:"
+        std::cout << "Ertek:";
     }    
     std::cout << "Atlag szamitasa: " << std::endl;
     int atlag;
